@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "cobblemarks",
+  "version": "1.0.0-SNAPSHOT",
+  "name": "Cobblemon Marks",
+  "description": "Adds marks from Scarlet and Violet to Cobblemon",
+  "authors": [
+    "ArchieDxncan"
+  ],
+  "license": "MIT License",
+  "icon": "assets/example/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.cobblemon.fabric.example.MarkServer"
+    ]
+  },
+  "depends": {
+    "fabric": "*",
+    "fabric-api": "*",
+    "minecraft": "1.21.1",
+    "cobblemon": ">=1.6.1"
+  }
+}

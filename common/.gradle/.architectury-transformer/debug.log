@@ -1,0 +1,16 @@
+[Architectury Transformer DEBUG] 
+[Architectury Transformer DEBUG] ============================
+[Architectury Transformer DEBUG] Transforming from E:\MINECRAFT MODS\CobbleMarks\common\build\devlibs\common-1.0.0-SNAPSHOT-dev.jar to E:\MINECRAFT MODS\CobbleMarks\common\build\libs\common-1.0.0-SNAPSHOT-transformProductionFabric.jar
+[Architectury Transformer DEBUG] ============================
+[Architectury Transformer DEBUG] 
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from E:\MINECRAFT MODS\CobbleMarks\common\build\devlibs\common-1.0.0-SNAPSHOT-dev.jar to E:\MINECRAFT MODS\CobbleMarks\common\build\libs\common-1.0.0-SNAPSHOT-transformProductionFabric.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapMixinVariables@5b9d6007
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@7df8f4ab
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@2aa33b62
+[Architectury Transformer DEBUG]  - AddRefmapName(enabled=() -> kotlin.Boolean)
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@5616c93d
+[Architectury Transformer DEBUG] Transforming from E:\MINECRAFT MODS\CobbleMarks\common\build\devlibs\common-1.0.0-SNAPSHOT-dev.jar to E:\MINECRAFT MODS\CobbleMarks\common\build\libs\common-1.0.0-SNAPSHOT-transformProductionFabric.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing com/cobblemon/common/example/ExampleCommandRegistry with maxs=true frames=true
+[Architectury Transformer DEBUG] Closed File Systems for E:\MINECRAFT MODS\CobbleMarks\common\build\libs\common-1.0.0-SNAPSHOT-transformProductionFabric.jar
+[Architectury Transformer] Transformed jar with 5 transformer(s) in 70.06 ms

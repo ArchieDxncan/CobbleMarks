@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Multi-Platform.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Multi-Platform.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Multi-Platform.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Multi-Platform.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Multi-Platform.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Multi-Platform.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Multi-Platform.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Multi-Platform.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Multi-Platform.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Multi-Platform.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/Multi-Platform.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/Multi-Platform.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/Multi-Platform.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/Multi-Platform.neoforge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/com.cobblemon.mdks.Multi-Platform.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/com.cobblemon.mdks.Multi-Platform.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/com.cobblemon.mdks.Multi-Platform.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/com.cobblemon.mdks.Multi-Platform.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/com.cobblemon.mdks.Multi-Platform.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/com.cobblemon.mdks.Multi-Platform.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/com.cobblemon.mdks.Multi-Platform.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/com.cobblemon.mdks.Multi-Platform.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/com.cobblemon.mdks.Multi-Platform.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/com.cobblemon.mdks.Multi-Platform.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/com.cobblemon.mdks.Multi-Platform.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/com.cobblemon.mdks.Multi-Platform.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/com.cobblemon.mdks.Multi-Platform.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/com.cobblemon.mdks.Multi-Platform.neoforge.test.iml" />
+    </modules>
+  </component>
+</project>
